@@ -1,0 +1,66 @@
+.login-screen{
+width: 320px;
+}
+.headline-hej{
+font-family: "Montserrat";
+font-size: 50px;
+font-weight:700;
+letter-spacing: 5px;
+text-align: center;
+margin-top: 100px;
+}
+.headline-bruger-navn{
+font-family: 'Montserrat';
+font-weight:600;
+font-size: 30px;
+letter-spacing: 2px;
+text-align: center;
+margin-top: 30px;
+margin-bottom: 15px;
+}
+.headline-bruger-alder{
+font-family: 'Montserrat';
+font-weight:600;
+font-size: 30px;
+letter-spacing: 2px;
+text-align: center;
+margin-bottom: 40px;
+
+    }
+
+.btn-wrapper{
+margin:auto;
+padding: 0px;
+width: 299px;
+}
+
+.btn-leder-efter-en{
+font-family: 'Montserrat';
+font-weight:700;
+font-size: 12px;
+letter-spacing: 2px;
+text-align: center;
+background-color: #D67AD3;
+background-image: linear-gradient(#D67AD3, #9769D4);
+color: white;
+border-radius: 25px;
+width: 298px; 
+margin-bottom: 17px;
+padding: 11px 13px;
+
+
+}
+.btn-gaa-til-din-profil{
+    font-family: 'Montserrat';
+    font-weight:700;
+    font-size: 17px;
+    letter-spacing: 2px;
+    text-align: center;
+    background-color: #7D95CF;
+    color: white;
+    border-radius: 25px;
+    width: 280px; 
+    margin-top: 60px;
+    padding: 11px 13px;
+
+}
