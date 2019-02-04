@@ -1,0 +1,53 @@
+
+
+.headline-text-login{
+font-family: "Montserrat";
+font-size: 25px;
+font-weight:610;
+letter-spacing: 5px;
+text-align: center;
+margin-top: 100px;
+}
+.headline-subtext-create-user{
+font-family: 'Montserrat';
+font-weight:400;
+font-size: 18px;
+letter-spacing: 4px;
+text-align: center;
+margin-top: 70px;
+margin-bottom: 70px;
+}
+
+.btn-wrapper{
+margin: 0 auto;
+width: 165px;
+}
+
+.btn-facebook{
+font-family: 'Montserrat';
+font-weight:600;
+font-size: 22px;
+letter-spacing: 5px;
+text-align: center;
+background-color: #7D95CF;
+color: white;
+border-radius: 7px;
+width: 165px; 
+margin-bottom: 5px;
+padding: 10px 7px;
+
+
+}
+.btn-google{
+font-family: 'Montserrat';
+font-size: 22px; 
+font-weight:600;
+letter-spacing: 5px;
+text-align: center;   
+background-color: #C37573;
+color: white;
+border-radius: 7px;
+width: 165px;
+padding: 10px 7px;
+
+}
