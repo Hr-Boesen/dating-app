@@ -1,0 +1,36 @@
+.screen-iphone5{
+width: 320px;
+height: 568px;
+margin: 0 auto;
+}
+.headline-bruger-navn-og-alder{
+font-family: 'Montserrat';
+font-weight:600;
+font-size: 30px;
+letter-spacing: 2px;
+text-align: center;
+margin-top: 30px;
+margin-bottom: 15px;
+}
+
+.btn-tag-foto-lav-sky{
+font-family: 'Montserrat';
+font-weight:700;
+font-size: 10px;
+letter-spacing: 2px;
+text-align: center;
+color: white;
+border-radius: 25px;
+width: 280px; 
+margin-bottom: 17px;
+padding: 11px 13px;
+background-color: #D67AD3;
+background-image: linear-gradient(#D67AD3, #9769D4);
+}
+
+.fa-cog {
+color: white;
+  }
+
+
+
